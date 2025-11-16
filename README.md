@@ -49,4 +49,9 @@ This tool helps you understand how sorting algorithms work step-by-step with smo
 ## 📸 Screenshorts
 <img width="290" height = "260" src="ScreenShot/1.png">   <img width="290" height = "260" src="ScreenShot/2.png">   <img width="290" height = "260" src="ScreenShot/3.png">  <img width="290" height = "260" src="ScreenShot/4.png">
 
+---
+## 🔗 Live Demo
+👉 [Click here to view the live demo](https://your-username.github.io/your-repo-name/)
+
+
 
