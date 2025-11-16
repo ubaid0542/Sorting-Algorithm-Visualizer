@@ -51,7 +51,7 @@ This tool helps you understand how sorting algorithms work step-by-step with smo
 
 ---
 ## 🔗 Live Demo
-👉 [Click here to view the live demo](https://your-username.github.io/your-repo-name/)
+👉 [Click here to view the live demo](https://ubaid0542.github.io/Sorting-Algorithm-Visualizer/)
 
 
 
